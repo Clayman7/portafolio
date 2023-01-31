@@ -1,0 +1,12 @@
+.pp{
+    background: url('../assets/img/n1.gif');
+    background-color: #cccccc; 
+    height: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+   }
+
+.erc{
+  float:left;
+}   
