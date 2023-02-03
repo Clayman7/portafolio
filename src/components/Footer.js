@@ -66,6 +66,9 @@ export const Footer = () => {
                   <br></br>
                   <br></br>
                   <br></br>
+                  <br></br>
+                  <br></br>
+                  <br></br>
                   <h1><strong>Contacto</strong></h1>
                   <br></br>
                   <br></br>
