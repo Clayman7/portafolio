@@ -84,9 +84,10 @@ export const Banner = () =>{
                   {({ isVisible }) =>
                   <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                     <h1 className="text-success">{`¡Hola! Soy`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Alan Salinas","Full Stack Developer"]'><span className="wrap">{text}</span></span></h1>
-                      <p className="text-success"><strong>¡Hola! mi nombre es Alan y soy un Desarrollador Full Stack que codicia programar cosas nuevas,
-                       deseo resolver problemas. Quiero aportar algo de mi en cada código. 
-                       Me gusta ser eficiente y proactivo.</strong></p>
+                      <p className="text-success"><strong>¡Hola! mi nombre es Alan y Soy un Desarrollador Full Stack 
+                      que codicia resolver problemas, deseo programar cosas nuevas. Quiero devorar el mundo 
+                      de la tecnología, aportaré algo de mi en cada código. Me gusta el compañerismo y las metas. 
+                      Soy eficiente y autodidacta. Estudioso de la filosofía y programador de tiempo completo.</strong></p>
                   
                        <Nav className="ms-auto">
                   
