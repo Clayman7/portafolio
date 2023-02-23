@@ -353,8 +353,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .project {
   padding: 80px 0;
   position: relative;
-  background: url('./assets/img/code7.gif');
-  background-color: #cccccc; 
+  /*background: url('./assets/img/code7.gif'); */
+ 
   height: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
@@ -435,7 +435,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90deg, rgba(5,43,124,1) 0%, rgba(1,33,60,0.639093137254902) 50%, rgba(69,186,252,0.773546918767507) 100%);
+  background: linear-gradient(90deg, rgb(4, 117, 19) 0%, rgba(1, 60, 14, 0.639) 50%, rgba(78, 151, 100, 0.774) 100%);
   opacity: 0.85;
   position: absolute;
   width: 100%;
@@ -482,7 +482,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 /************ Projects Css ************/
 .contact {
-  background: linear-gradient(90deg, rgba(5,43,124,1) 0%, rgba(1,33,60,0.639093137254902) 50%, rgba(69,186,252,0.773546918767507) 100%);
+  background: linear-gradient(90deg, rgb(5, 124, 21) 0%, rgba(1,33,60,0.639093137254902) 50%, rgba(44, 136, 44, 0.774) 100%);
   padding: 60px 0 200px 0;
 }
 .contact img {

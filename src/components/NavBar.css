@@ -1,8 +1,7 @@
 .ff{
-    background: url('../assets/img/n1.gif');
-    background-color: #cccccc; 
-    height: 90px; 
+    background-color:  rgb(114, 163, 110); 
+    height: 100px; 
     background-position: center; 
     background-repeat: no-repeat; 
-    background-size: cover; 
+    background-size: cover;  
    }

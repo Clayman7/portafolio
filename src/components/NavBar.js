@@ -31,12 +31,12 @@ export const NavBar = () =>{
       }
       return (
         <Router>
-        <div >
+        <div className="ff">
           <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
             <Container>
              
               <Navbar.Brand href="/">
-                <h1 class="text-secondary"><strong>Alan Salinas García</strong></h1>
+                <h1 class="text-success"><strong>Alan Salinas García</strong></h1>
               </Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav">
                 <span className="navbar-toggler-icon"></span>

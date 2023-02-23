@@ -1,8 +1,9 @@
 .bb{
-   /* background: url('../assets/img/n1.gif');
-    background-color: #cccccc; 
+  
     height: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
-    background-size: cover;  */
+    background-size: cover;  
+    color: rgb(124, 198, 118);
+    font-weight: bold;
 }

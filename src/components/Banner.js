@@ -83,8 +83,8 @@ export const Banner = () =>{
               <TrackVisibility>  
                   {({ isVisible }) =>
                   <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                    <h1>{`¡Hola! Soy`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Alan Salinas","Full Stack Developer"]'><span className="wrap">{text}</span></span></h1>
-                      <p><strong>¡Hola! mi nombre es Alan y soy un Desarrollador Full Stack que codicia programar cosas nuevas,
+                    <h1 className="text-success">{`¡Hola! Soy`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Alan Salinas","Full Stack Developer"]'><span className="wrap">{text}</span></span></h1>
+                      <p className="text-success"><strong>¡Hola! mi nombre es Alan y soy un Desarrollador Full Stack que codicia programar cosas nuevas,
                        deseo resolver problemas. Quiero aportar algo de mi en cada código. 
                        Me gusta ser eficiente y proactivo.</strong></p>
                   

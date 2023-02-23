@@ -1,6 +1,6 @@
 .fondo{
- background: url('../assets/img/code8.gif');
- background-color: #cccccc; 
+    background-color:  rgb(114, 163, 110); 
+/* background: url('../assets/img/code8.gif'); */
  height: 500px; 
  background-position: center; 
  background-repeat: no-repeat; 

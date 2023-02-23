@@ -69,11 +69,11 @@ export const Footer = () => {
                   <br></br>
                   <br></br>
                   <br></br>
-                  <h1><strong>Contacto</strong></h1>
+                  <h1 className="text-success"><strong>Contacto</strong></h1>
                   <br></br>
                   <br></br>
-                    <h2>{`¡Vamos a contactar!`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Pincha en los encales","Escribeme a mi correo"]'><span className="wrap">{text}</span></span></h2>
-                      <p class="text-info"><strong>Correo: clayman.asg@gmail.com</strong></p>  
+                    <h2 className="text-success">{`¡Vamos a contactar!`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Pincha en los encales","Escribeme a mi correo"]'><span className="wrap">{text}</span></span></h2>
+                      <p class="text-success"><strong>Correo: clayman.asg@gmail.com</strong></p>  
                   </div>}
                 </TrackVisibility>
               </Col>
