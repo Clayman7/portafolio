@@ -31,7 +31,7 @@ body {
   font-weight: 400;
   overflow-x: hidden;
   position: relative;
-  background-color: #121212 !important; 
+  background-color: #ad8484 !important; 
 /*background: url('./assets/img/code3.gif');
  background-color: #cccccc; 
  height: 500px; 
@@ -98,7 +98,7 @@ nav.navbar {
 }
 nav.navbar.scrolled {
   padding: 0px 0;
-  background-color: #121212;
+  background-color: #ad8484;
 }
 nav.navbar a.navbar-brand {
     width: 25%;
@@ -314,10 +314,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   position: relative;
 }
 .skill-bx {
-  background: #151515;
+  background: #d9d5bb;
+  
   border-radius: 64px;
   text-align: center;
-  padding: 60px 50px;
+  padding: 100px 50px;
   margin-top: -60px;
 }
 .skill h2 {

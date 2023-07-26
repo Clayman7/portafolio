@@ -12,7 +12,7 @@ body {
 }
 
 #root {
-  border: solid 3px rgb(124, 198, 118);
+  border: solid 3px #ad8484;
   height: auto;
   max-width: 1400px;
   margin: 0 auto;

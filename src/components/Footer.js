@@ -69,19 +69,16 @@ export const Footer = () => {
                   <br></br>
                   <br></br>
                   <br></br>
-                  <h1 className="text-success"><strong>Contacto</strong></h1>
+                  <h1 className="xx"><strong>Contacto</strong></h1>
                   <br></br>
                   <br></br>
-                    <h2 className="text-success">{`¡Vamos a contactar!`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Pincha en los encales","Escribeme a mi correo"]'><span className="wrap">{text}</span></span></h2>
-                      <p class="text-success"><strong>Correo: clayman.asg@gmail.com</strong></p>  
+                    <h2 className="xx">{`¡Vamos a contactar!`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Pincha en los encales","Escribeme a mi correo"]'><span className="wrap">{text}</span></span></h2>
+                      <p class="text-secondary"><strong>Correo: vlaramejia@gmail.com</strong></p>  
                   </div>}
                 </TrackVisibility>
               </Col>
               <Col size={12} sm={6} >
-            <div className="social-icon">
-              <a href="https://www.linkedin.com/in/alan-salinas-garc%C3%ADa-572b6a257/" target='_blank'><img src={navIcon1} alt="" /></a>
-              <a href="https://github.com/Clayman7" target='_blank'><img src={navIcon2} alt="" /></a>   
-            </div>
+            
           </Col> 
           
               <Col xs={24} md={6} xl={5}>

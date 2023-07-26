@@ -1,8 +1,11 @@
 .fondo{
-    background-color:  rgb(114, 163, 110); 
+    background-color: #ad8484; 
 /* background: url('../assets/img/code8.gif'); */
  height: 500px; 
  background-position: center; 
  background-repeat: no-repeat; 
  background-size: cover; 
+}
+.lll{
+    color: #b05574;
 }

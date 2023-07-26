@@ -36,16 +36,15 @@ export const NavBar = () =>{
             <Container>
              
               <Navbar.Brand href="/">
-                <h1 class="text-success"><strong>Alan Salinas García</strong></h1>
+                <h1 class="l"><strong>Stephany Lara</strong></h1>
               </Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav">
                 <span className="navbar-toggler-icon"></span>
               </Navbar.Toggle>
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ms-auto">
-                  <Nav.Link href="#home" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>Home</Nav.Link>
-                  <Nav.Link href="#skills" className={activeLink === 'skills' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('skills')}>Skills</Nav.Link>
-                  <Nav.Link href="#project" className={activeLink === 'project' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('project')}>Projectos</Nav.Link>
+                
+                  
                  
 
                 </Nav>

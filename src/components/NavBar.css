@@ -1,7 +1,11 @@
 .ff{
-    background-color:  rgb(114, 163, 110); 
+    background-color:  #ac7b7b; 
     height: 100px; 
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;  
+   }
+
+   .l{
+    color: #b05574;
    }
