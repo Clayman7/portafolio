@@ -51,7 +51,7 @@ export const Cm = () => {
             <div className="row">
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
-                        <h2 className="lll">Comunity Managger</h2>
+                        <h2 className="lll">Community Manager</h2>
                         <p className="text-secondary">Creacion de parrillas de contenido y manejo de cuentas de portales de noticias como: Insomnio Guatemala, Trece noticias y Yo Amo Guatemala</p>
                         <h5 className="lll">SDP Noticias (actualidad) </h5>
 <p className="text-secondary">Instagram
